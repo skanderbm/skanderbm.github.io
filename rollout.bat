@@ -1,3 +1,3 @@
-git add . 
+git add --all
 git commit -m "your commit message" 
-git push heroku master
+git push -u origin main
